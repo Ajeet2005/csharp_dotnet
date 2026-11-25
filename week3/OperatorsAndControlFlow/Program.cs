@@ -143,7 +143,7 @@
             // ---- Task 5: Exam Hall Seat Labels ----
 
             int seatCount = 0;
-
+//
             for (int row = 1; row <= 3; row++)
             {
                 for (int seat = 1; seat <= 4; seat++)
